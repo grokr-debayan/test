@@ -3,6 +3,6 @@ def one():
         print(i)
 def main():
     one():
-# main 
+# main function
 if __name__ == '__main__':
     main()
